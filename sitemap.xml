@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hughyuna.top/post/about/</loc>
+    <loc>https://kacering.github.io/Hugh/post/about/</loc>
     <lastmod>2018-02-08T10:21:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hughyuna.top/categories/</loc>
+    <loc>https://kacering.github.io/Hugh/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hughyuna.top/</loc>
-    <lastmod>2018-02-08T10:21:18+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hughyuna.top/post/</loc>
+    <loc>https://kacering.github.io/Hugh/</loc>
     <lastmod>2018-02-08T10:21:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hughyuna.top/tags/</loc>
+    <loc>https://kacering.github.io/Hugh/post/</loc>
+    <lastmod>2018-02-08T10:21:18+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kacering.github.io/Hugh/tags/</loc>
     <priority>0</priority>
   </url>
   
