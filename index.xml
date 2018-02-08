@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Future Imperfect</title>
-    <link>https://kacering.github.io/Hugh/</link>
+    <link>https://kacering.github.io/</link>
     <description>Recent content on Hugo Future Imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2018 10:21:18 +0800</lastBuildDate>
     
-	<atom:link href="https://kacering.github.io/Hugh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kacering.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://kacering.github.io/Hugh/post/about/</link>
+      <link>https://kacering.github.io/post/about/</link>
       <pubDate>Thu, 08 Feb 2018 10:21:18 +0800</pubDate>
       
-      <guid>https://kacering.github.io/Hugh/post/about/</guid>
+      <guid>https://kacering.github.io/post/about/</guid>
       <description>aaa 中</description>
     </item>
     
